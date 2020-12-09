@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/wuviv/OneDrive/Documents/BCIT CST Fall 2020/COMP 4981/Lecture Code/ReferenceAndPointers/main.cpp
+iostream
+-
+

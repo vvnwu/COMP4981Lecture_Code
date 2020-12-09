@@ -1,0 +1,3 @@
+/cygdrive/c/Users/wuviv/OneDrive/Documents/BCIT CST Fall 2020/COMP 4981/Lecture Code/Pipe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/wuviv/OneDrive/Documents/BCIT CST Fall 2020/COMP 4981/Lecture Code/Pipe/cmake-build-debug/CMakeFiles/Pipe.dir
+/cygdrive/c/Users/wuviv/OneDrive/Documents/BCIT CST Fall 2020/COMP 4981/Lecture Code/Pipe/cmake-build-debug/CMakeFiles/edit_cache.dir

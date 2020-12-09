@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/ReferenceAndPointers.dir/main.cpp.o  -o ReferenceAndPointers.exe -Wl,--out-implib,libReferenceAndPointers.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

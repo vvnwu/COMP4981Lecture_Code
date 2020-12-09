@@ -1,0 +1,4 @@
+C:\Users\wuviv\AppData\Local\JetBrains\CLion2020.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/cygdrive/c/Users/wuviv/OneDrive/Documents/BCIT CST Fall 2020/COMP 4981/Lecture Code/ReferenceAndPointers"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/wuviv/OneDrive/Documents/BCIT CST Fall 2020/COMP 4981/Lecture Code/ReferenceAndPointers/cmake-build-debug

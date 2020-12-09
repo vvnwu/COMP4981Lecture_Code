@@ -1,0 +1,2 @@
+/usr/bin/ar.exe qc libdc_verbose.a  CMakeFiles/dc_verbose.dir/dc_verbose_fcntl.c.o CMakeFiles/dc_verbose.dir/dc_verbose_error.c.o CMakeFiles/dc_verbose.dir/dc_verbose_unistd.c.o CMakeFiles/dc_verbose.dir/dc_verbose_sys_stat.c.o
+/usr/bin/ranlib.exe libdc_verbose.a

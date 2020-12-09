@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Redirection_c.dir/main.c.o  -o Redirection_c.exe -Wl,--out-implib,libRedirection_c.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

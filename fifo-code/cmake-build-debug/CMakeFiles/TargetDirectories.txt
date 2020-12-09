@@ -1,0 +1,6 @@
+/cygdrive/c/Users/wuviv/OneDrive/Documents/BCIT CST Fall 2020/COMP 4981/Lecture Code/fifo-code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/wuviv/OneDrive/Documents/BCIT CST Fall 2020/COMP 4981/Lecture Code/fifo-code/cmake-build-debug/CMakeFiles/dc_verbose.dir
+/cygdrive/c/Users/wuviv/OneDrive/Documents/BCIT CST Fall 2020/COMP 4981/Lecture Code/fifo-code/cmake-build-debug/CMakeFiles/server.dir
+/cygdrive/c/Users/wuviv/OneDrive/Documents/BCIT CST Fall 2020/COMP 4981/Lecture Code/fifo-code/cmake-build-debug/CMakeFiles/dc.dir
+/cygdrive/c/Users/wuviv/OneDrive/Documents/BCIT CST Fall 2020/COMP 4981/Lecture Code/fifo-code/cmake-build-debug/CMakeFiles/client.dir
+/cygdrive/c/Users/wuviv/OneDrive/Documents/BCIT CST Fall 2020/COMP 4981/Lecture Code/fifo-code/cmake-build-debug/CMakeFiles/edit_cache.dir

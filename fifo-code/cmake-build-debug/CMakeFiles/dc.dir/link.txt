@@ -1,0 +1,2 @@
+/usr/bin/ar.exe qc libdc.a  CMakeFiles/dc.dir/dc_fcntl.c.o CMakeFiles/dc.dir/dc_error.c.o CMakeFiles/dc.dir/dc_unistd.c.o CMakeFiles/dc.dir/dc_sys_stat.c.o
+/usr/bin/ranlib.exe libdc.a
